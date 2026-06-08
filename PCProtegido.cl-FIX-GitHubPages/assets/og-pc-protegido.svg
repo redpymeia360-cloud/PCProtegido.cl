@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#0b2744"/></linearGradient>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#11a7ff"/><stop offset="1" stop-color="#0069ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1020" cy="90" r="260" fill="#11a7ff" opacity=".18"/>
+  <circle cx="130" cy="610" r="260" fill="#34d399" opacity=".15"/>
+  <rect x="80" y="90" width="1040" height="450" rx="42" fill="#fff" opacity=".08" stroke="#fff" stroke-opacity=".15"/>
+  <g transform="translate(115 135)">
+    <rect width="108" height="108" rx="25" fill="#07111f"/>
+    <path d="M54 15 88 28v27c0 23-14 38-34 46-20-8-34-23-34-46V28l34-13Z" fill="url(#g)"/>
+    <rect x="33" y="47" width="42" height="27" fill="#fff" rx="2"/>
+    <path d="M44 80h20v8h9v6H35v-6h9v-8Z" fill="#34d399"/>
+  </g>
+  <text x="245" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="56" font-weight="800">PC Protegido.cl</text>
+  <text x="115" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="62" font-weight="900">Soporte TI, Helpdesk y Outsourcing</text>
+  <text x="115" y="375" fill="#c7d2fe" font-family="Arial, sans-serif" font-size="34">Técnicos para clínicas, colegios, empresas, oficinas, hospitales, bancos y pymes.</text>
+  <text x="115" y="455" fill="#34d399" font-family="Arial, sans-serif" font-size="32" font-weight="800">Valores accesibles · Por ticket · Día · Mes · Año</text>
+</svg>
